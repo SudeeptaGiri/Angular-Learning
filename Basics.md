@@ -43,12 +43,12 @@ Angular is a popular open-source web application framework developed by Google. 
 
 ## How Angular Works
 
-1️⃣ **Modules (`@NgModule`)** – Defines the structure of the application.
-2️⃣ **Components (`@Component`)** – UI building blocks of the application.
-3️⃣ **Templates & Directives** – Defines the view and behavior of components.
-4️⃣ **Services & Dependency Injection (`@Injectable`)** – Manages business logic.
-5️⃣ **Routing (`RouterModule`)** – Handles navigation and multiple views.
-6️⃣ **Forms & HTTP Client** – Manages user input and API communication.
+1. **Modules (`@NgModule`)** – Defines the structure of the application.
+2. **Components (`@Component`)** – UI building blocks of the application.
+3. **Templates & Directives** – Defines the view and behavior of components.
+4. **Services & Dependency Injection (`@Injectable`)** – Manages business logic.
+5. **Routing (`RouterModule`)** – Handles navigation and multiple views.
+6. **Forms & HTTP Client** – Manages user input and API communication.
 
 ---
 
