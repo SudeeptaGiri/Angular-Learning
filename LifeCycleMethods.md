@@ -205,4 +205,6 @@ export class DestroyComponent implements OnDestroy {
 ---
 
 ### 🚀 Happy Coding with Angular Lifecycle Hooks!
+### For more reference check this page -> https://angular.dev/guide/components/lifecycle
+
 
